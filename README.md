@@ -30,27 +30,11 @@ Have an idea to improve MeshMapper? [Submit a feature request](../../issues/new?
 - Your proposed solution
 - Any alternatives you've considered
 
-### 📋 Check the Roadmap
-Browse [open issues](../../issues) and [milestones](../../milestones) to see what's planned and in progress.
-
 ## Related Repositories
 
 | Repository | Description |
 |------------|-------------|
 | *Coming soon* | Links to MeshMapper source code repositories will be added here |
-
-## Contributing
-
-We welcome community input! Before submitting an issue:
-1. **Search existing issues** to avoid duplicates
-2. **Use issue templates** when available
-3. **Provide detailed information** to help us understand and prioritize
-
-## License
-
-See [LICENSE](LICENSE) for details.
-
----
 
 <p align="center">
   <i>Mapping the invisible networks around us</i>
