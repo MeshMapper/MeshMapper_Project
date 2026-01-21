@@ -34,7 +34,7 @@ Have an idea to improve MeshMapper? [Submit a feature request](../../issues/new?
 
 | Repository | Description |
 |------------|-------------|
-| *Coming soon* | Links to MeshMapper source code repositories will be added here |
+| [MeshMapper_WebClient](https://github.com/MeshMapper/MeshMapper_WebClient) | Legacy WebApp |
 
 <p align="center">
   <i>Mapping the invisible networks around us</i>
