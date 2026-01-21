@@ -1,2 +1,57 @@
-# MeshMapper_Project
-Central issue tracking and project planning for MeshMapper - a wardriving and mesh network coverage mapping application
+# MeshMapper Project Tracker
+
+> 📋 Central issue tracking and project planning for **MeshMapper** — a wardriving and mesh network coverage mapping application.
+
+---
+
+## About This Repository
+
+This repository serves as the **central hub for issue tracking, feature requests, and project planning** for the MeshMapper ecosystem. There is no source code here — this repo is dedicated to organizing and prioritizing work across the project.
+
+## What is MeshMapper?
+
+MeshMapper is a wardriving and mesh network coverage mapping application designed to help users:
+- 📡 Map wireless network coverage areas
+- 🗺️ Visualize mesh network topology and signal strength
+- 📊 Analyze network performance and coverage gaps
+- 🚗 Collect wardriving data for network surveys
+
+## How to Use This Repository
+
+### 🐛 Report a Bug
+Found something broken? [Open a bug report](../../issues/new?template=bug_report.md) with:
+- Steps to reproduce the issue
+- Expected vs. actual behavior
+- Environment details (OS, app version, etc.)
+
+### 💡 Request a Feature
+Have an idea to improve MeshMapper? [Submit a feature request](../../issues/new?template=feature_request.md) describing:
+- The problem you're trying to solve
+- Your proposed solution
+- Any alternatives you've considered
+
+### 📋 Check the Roadmap
+Browse [open issues](../../issues) and [milestones](../../milestones) to see what's planned and in progress.
+
+## Related Repositories
+
+| Repository | Description |
+|------------|-------------|
+| *Coming soon* | Links to MeshMapper source code repositories will be added here |
+
+## Contributing
+
+We welcome community input! Before submitting an issue:
+1. **Search existing issues** to avoid duplicates
+2. **Use issue templates** when available
+3. **Provide detailed information** to help us understand and prioritize
+
+## License
+
+See [LICENSE](LICENSE) for details.
+
+---
+
+<p align="center">
+  <i>Mapping the invisible networks around us</i>
+</p>

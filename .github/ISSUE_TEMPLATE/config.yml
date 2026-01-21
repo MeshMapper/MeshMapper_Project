@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name:  💬 Questions & Discussion
+    url: https://github.com/MrAlders0n/MeshCore-GOME-WarDriver/discussions
+    about: Ask questions about the MeshCore coverage map
+  - name: 🔒 Security Issue
+    url: https://github.com/MrAlders0n/MeshCore-GOME-WarDriver/security/advisories/new
+    about: Report security vulnerabilities privately

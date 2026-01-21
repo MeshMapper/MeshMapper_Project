@@ -1,0 +1,43 @@
+name: Feature Request
+description: Suggest a new feature
+title: "[Feature]: "
+labels: ["enhancement", "triage"]
+assignees: 
+  - MrAlders0n
+body:
+  - type: textarea
+    id: feature
+    attributes:
+      label:  What feature do you want?
+      description:  Describe the feature you'd like to see
+      placeholder: I want to be able to...
+    validations:
+      required: true
+  
+  - type: textarea
+    id: why
+    attributes:
+      label:  Why do you need it?
+      description: What problem would this solve?
+      placeholder: This would help me...
+    validations:
+      required: true
+  
+  - type: dropdown
+    id: priority
+    attributes: 
+      label: How important is this?
+      options: 
+        - "Critical - Really need this"
+        - "High - Would help a lot"
+        - "Medium - Nice to have"
+        - "Low - Just an idea"
+    validations:
+      required: true
+  
+  - type: textarea
+    id: extra
+    attributes:
+      label:  Anything else?
+      description: Add screenshots, mockups, or examples
+      placeholder: Any additional details

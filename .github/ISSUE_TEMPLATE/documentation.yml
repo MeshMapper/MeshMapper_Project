@@ -1,0 +1,45 @@
+name: Documentation Issue
+description: Report docs that are wrong, missing, or confusing
+title: "[Docs]:  "
+labels: ["documentation", "triage"]
+assignees:  
+  - MrAlders0n
+body:  
+  - type: dropdown
+    id: doc-type
+    attributes:
+      label: What's the issue?
+      options:  
+        - Missing documentation
+        - Wrong or outdated info
+        - Confusing or unclear
+        - Typo or grammar
+        - Need example code
+        - Other
+    validations: 
+      required:  true
+  
+  - type:  input
+    id: location
+    attributes:
+      label: Where? 
+      description: File path or URL
+      placeholder: e.g., README.md or https://...
+    validations:
+      required:  true
+  
+  - type:  textarea
+    id: problem
+    attributes:  
+      label: What's wrong?
+      placeholder: Describe the issue
+    validations:
+      required: true
+  
+  - type: textarea
+    id: fix
+    attributes:
+      label:  What should it say?
+      placeholder: Your suggested fix or content
+    validations:
+      required: true
