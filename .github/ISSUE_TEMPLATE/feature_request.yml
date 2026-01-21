@@ -9,7 +9,8 @@ body:
     id: platform
     attributes:
       label: Platform
-      description: Which MeshMapper platform is this feature for?
+      description: Which MeshMapper platform(s) is this feature for?
+      multiple: true
       options:
         - "Web Client (Legacy)"
         - "MeshMapper Web"

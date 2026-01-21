@@ -9,7 +9,8 @@ body:
     id: platform
     attributes:
       label: Platform
-      description: Which MeshMapper platform is this bug related to?
+      description: Which MeshMapper platform(s) is this bug related to?
+      multiple: true
       options:
         - "Web Client (Legacy)"
         - "MeshMapper Web"
