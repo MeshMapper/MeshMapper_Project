@@ -19,13 +19,13 @@ MeshMapper is a wardriving and mesh network coverage mapping application designe
 ## How to Use This Repository
 
 ### 🐛 Report a Bug
-Found something broken? [Open a bug report](../../issues/new?template=bug_report.md) with:
+Found something broken? [Open a bug report](../../issues/new?template=bug_report.yml) with:
 - Steps to reproduce the issue
 - Expected vs. actual behavior
 - Environment details (OS, app version, etc.)
 
 ### 💡 Request a Feature
-Have an idea to improve MeshMapper? [Submit a feature request](../../issues/new?template=feature_request.md) describing:
+Have an idea to improve MeshMapper? [Submit a feature request](../../issues/new?template=feature_request.yml) describing:
 - The problem you're trying to solve
 - Your proposed solution
 - Any alternatives you've considered
