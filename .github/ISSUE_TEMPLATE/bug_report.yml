@@ -5,6 +5,19 @@ labels: ["bug", "triage"]
 assignees: 
   - MrAlders0n
 body:  
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      description: Which MeshMapper platform is this bug related to?
+      options:
+        - "Web Client (Legacy)"
+        - "MeshMapper Web"
+        - "iOS App"
+        - "Android App"
+    validations:
+      required: true
+
   - type: textarea
     id: what-happened
     attributes:

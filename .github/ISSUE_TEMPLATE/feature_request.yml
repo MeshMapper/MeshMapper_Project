@@ -5,6 +5,19 @@ labels: ["enhancement", "triage"]
 assignees: 
   - MrAlders0n
 body:
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      description: Which MeshMapper platform is this feature for?
+      options:
+        - "Web Client (Legacy)"
+        - "MeshMapper Web"
+        - "iOS App"
+        - "Android App"
+    validations:
+      required: true
+
   - type: textarea
     id: feature
     attributes:
