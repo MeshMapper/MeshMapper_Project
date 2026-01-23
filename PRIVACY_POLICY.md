@@ -90,7 +90,7 @@ We may update this Privacy Policy from time to time. We will notify users of sig
 If you have questions about this Privacy Policy or your data, please contact us at:
 
 **Website**: meshmapper.net  
-**Email**: [your contact email]
+**Email**: admin@meshmapper.net
 
 -----
 
